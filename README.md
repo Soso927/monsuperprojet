@@ -1,3 +1,9 @@
 # Bienvenue sur mon super projet 
+lorem...
 
 ## comment installer git 
+lorem...
+
+### ajout d'un chapitre 
+
+lorem...
